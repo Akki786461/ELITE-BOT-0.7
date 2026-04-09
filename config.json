@@ -6,7 +6,7 @@
   ],
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😘",
-  "ADMIN_ONLY_MODE": false,
+  "ADMIN_ONLY_MODE": True,
   "APPROVE_ONLY": false,
   "GLOBAL_COOLDOWN": 5,
   "AUTO_ISLAMIC_POST": false,
